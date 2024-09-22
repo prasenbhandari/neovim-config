@@ -1,9 +1,9 @@
 return {
-	'nvim-lualine/lualine.nvim', 
+	'nvim-lualine/lualine.nvim',
 	dependencies = { 'nvim-tree/nvim-web-devicons' },
-	opts = { 
-		options = { 
-			theme = 'powerline_dark' 
+	opts = {
+		options = {
+			theme = 'powerline_dark'
 		}
 	}
 }
