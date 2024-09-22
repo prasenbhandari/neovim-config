@@ -8,5 +8,6 @@ return {
 	{ "sainnhe/everforest" },
 	{ "sainnhe/sonokai" },
 	{ "morhetz/gruvbox" },
+	{ "rebelot/kanagawa.nvim" }
 }
 
